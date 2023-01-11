@@ -32,6 +32,7 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  &emsp;
   <a href="https://devdocs.io/c/">
     <img alt="C" src="https://img.shields.io/badge/c%20-%2314354C.svg?logo=c&logoColor=blue"/>
   </a
