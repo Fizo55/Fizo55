@@ -37,10 +37,9 @@
     <img alt="C" src="https://img.shields.io/badge/c%20-%2314354C.svg?logo=c&logoColor=blue"/>
   </a
   &emsp; 
-  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/" target="_blank"> 
+  <a href="https://learn.microsoft.com/fr-fr/cpp/cpp/?view=msvc-170"> 
     <img alt="C++" src="https://img.shields.io/badge/-C++-brightgreen.svg">
   </a>
-&emsp; 
 </p>
 
 ### 👉 Frontend Development
