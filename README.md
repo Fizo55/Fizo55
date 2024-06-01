@@ -38,8 +38,9 @@
   </a
   &emsp; 
   <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/-C%23-brightgreen.svg">
+    <img alt="C++" src="https://img.shields.io/badge/-C++-brightgreen.svg">
   </a>
+&emsp; 
 </p>
 
 ### 👉 Frontend Development
