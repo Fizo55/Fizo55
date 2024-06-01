@@ -36,6 +36,10 @@
   <a href="https://devdocs.io/c/">
     <img alt="C" src="https://img.shields.io/badge/c%20-%2314354C.svg?logo=c&logoColor=blue"/>
   </a
+  &emsp; 
+  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/-C%23-brightgreen.svg">
+  </a>
 </p>
 
 ### 👉 Frontend Development
