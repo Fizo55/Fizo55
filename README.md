@@ -35,7 +35,7 @@
   &emsp;
   <a href="https://devdocs.io/c/">
     <img alt="C" src="https://img.shields.io/badge/c%20-%2314354C.svg?logo=c&logoColor=blue"/>
-  </a
+  </a>
   &emsp; 
   <a href="https://learn.microsoft.com/fr-fr/cpp/cpp/?view=msvc-170"> 
     <img alt="C++" src="https://img.shields.io/badge/-C++-brightgreen.svg">
